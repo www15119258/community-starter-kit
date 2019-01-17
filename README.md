@@ -4,7 +4,12 @@ A GitHub App built with probot that celebrates new user activity within your rep
 
 ## What it does
 
-test FEATURES PLACEHOLDER
+Welcome new users with maintainer defined comments the first time your users:
+
+Create a new issue
+Open a new pull request
+Merge their first pull request
+
 
 ## Getting started
 
