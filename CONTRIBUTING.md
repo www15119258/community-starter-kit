@@ -15,6 +15,6 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: JDK DESCRIPTION PLACEHOLDER
 - **bug-high-priority**: JDK DESCRIPTION PLACEHOLDER
 - **bug-low-priority**: JDK DESCRIPTION PLACEHOLDER
-- **help-wanted**: JDK DESCRIPTION PLACEHOLDER
+- **help-wanted**: JDK1 DESCRIPTION PLACEHOLDER
 
 You can also help by translating documentation and reviewing open pull requests.
